@@ -1,0 +1,28 @@
+D:\.NET DEV\Exp3\bin\Debug\net10.0\Exp3.exe
+D:\.NET DEV\Exp3\bin\Debug\net10.0\Exp3.deps.json
+D:\.NET DEV\Exp3\bin\Debug\net10.0\Exp3.runtimeconfig.json
+D:\.NET DEV\Exp3\bin\Debug\net10.0\Exp3.dll
+D:\.NET DEV\Exp3\bin\Debug\net10.0\Exp3.pdb
+D:\.NET DEV\Exp3\obj\Debug\net10.0\Exp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET DEV\Exp3\obj\Debug\net10.0\Exp3.AssemblyInfoInputs.cache
+D:\.NET DEV\Exp3\obj\Debug\net10.0\Exp3.AssemblyInfo.cs
+D:\.NET DEV\Exp3\obj\Debug\net10.0\Exp3.csproj.CoreCompileInputs.cache
+D:\.NET DEV\Exp3\obj\Debug\net10.0\Exp3.dll
+D:\.NET DEV\Exp3\obj\Debug\net10.0\refint\Exp3.dll
+D:\.NET DEV\Exp3\obj\Debug\net10.0\Exp3.pdb
+D:\.NET DEV\Exp3\obj\Debug\net10.0\Exp3.genruntimeconfig.cache
+D:\.NET DEV\Exp3\obj\Debug\net10.0\ref\Exp3.dll
+D:\24UAM317\.NET\Exp3\bin\Debug\net10.0\Exp3.exe
+D:\24UAM317\.NET\Exp3\bin\Debug\net10.0\Exp3.deps.json
+D:\24UAM317\.NET\Exp3\bin\Debug\net10.0\Exp3.runtimeconfig.json
+D:\24UAM317\.NET\Exp3\bin\Debug\net10.0\Exp3.dll
+D:\24UAM317\.NET\Exp3\bin\Debug\net10.0\Exp3.pdb
+D:\24UAM317\.NET\Exp3\obj\Debug\net10.0\Exp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\24UAM317\.NET\Exp3\obj\Debug\net10.0\Exp3.AssemblyInfoInputs.cache
+D:\24UAM317\.NET\Exp3\obj\Debug\net10.0\Exp3.AssemblyInfo.cs
+D:\24UAM317\.NET\Exp3\obj\Debug\net10.0\Exp3.csproj.CoreCompileInputs.cache
+D:\24UAM317\.NET\Exp3\obj\Debug\net10.0\Exp3.dll
+D:\24UAM317\.NET\Exp3\obj\Debug\net10.0\refint\Exp3.dll
+D:\24UAM317\.NET\Exp3\obj\Debug\net10.0\Exp3.pdb
+D:\24UAM317\.NET\Exp3\obj\Debug\net10.0\Exp3.genruntimeconfig.cache
+D:\24UAM317\.NET\Exp3\obj\Debug\net10.0\ref\Exp3.dll

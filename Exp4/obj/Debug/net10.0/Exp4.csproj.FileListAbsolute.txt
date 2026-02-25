@@ -1,0 +1,15 @@
+D:\24UAM317\.NET\Exp4\bin\Debug\net10.0\Exp4.exe
+D:\24UAM317\.NET\Exp4\bin\Debug\net10.0\Exp4.deps.json
+D:\24UAM317\.NET\Exp4\bin\Debug\net10.0\Exp4.runtimeconfig.json
+D:\24UAM317\.NET\Exp4\bin\Debug\net10.0\Exp4.dll
+D:\24UAM317\.NET\Exp4\bin\Debug\net10.0\Exp4.pdb
+D:\24UAM317\.NET\Exp4\obj\Debug\net10.0\Exp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\24UAM317\.NET\Exp4\obj\Debug\net10.0\Exp4.AssemblyInfoInputs.cache
+D:\24UAM317\.NET\Exp4\obj\Debug\net10.0\Exp4.AssemblyInfo.cs
+D:\24UAM317\.NET\Exp4\obj\Debug\net10.0\Exp4.csproj.CoreCompileInputs.cache
+D:\24UAM317\.NET\Exp4\obj\Debug\net10.0\Exp4.sourcelink.json
+D:\24UAM317\.NET\Exp4\obj\Debug\net10.0\Exp4.dll
+D:\24UAM317\.NET\Exp4\obj\Debug\net10.0\refint\Exp4.dll
+D:\24UAM317\.NET\Exp4\obj\Debug\net10.0\Exp4.pdb
+D:\24UAM317\.NET\Exp4\obj\Debug\net10.0\Exp4.genruntimeconfig.cache
+D:\24UAM317\.NET\Exp4\obj\Debug\net10.0\ref\Exp4.dll

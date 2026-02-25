@@ -1,0 +1,29 @@
+D:\.NET DEV\Day1\Exp1\bin\Debug\net10.0\Exp1.exe
+D:\.NET DEV\Day1\Exp1\bin\Debug\net10.0\Exp1.deps.json
+D:\.NET DEV\Day1\Exp1\bin\Debug\net10.0\Exp1.runtimeconfig.json
+D:\.NET DEV\Day1\Exp1\bin\Debug\net10.0\Exp1.dll
+D:\.NET DEV\Day1\Exp1\bin\Debug\net10.0\Exp1.pdb
+D:\.NET DEV\Day1\Exp1\obj\Debug\net10.0\Exp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET DEV\Day1\Exp1\obj\Debug\net10.0\Exp1.AssemblyInfoInputs.cache
+D:\.NET DEV\Day1\Exp1\obj\Debug\net10.0\Exp1.AssemblyInfo.cs
+D:\.NET DEV\Day1\Exp1\obj\Debug\net10.0\Exp1.csproj.CoreCompileInputs.cache
+D:\.NET DEV\Day1\Exp1\obj\Debug\net10.0\Exp1.dll
+D:\.NET DEV\Day1\Exp1\obj\Debug\net10.0\refint\Exp1.dll
+D:\.NET DEV\Day1\Exp1\obj\Debug\net10.0\Exp1.pdb
+D:\.NET DEV\Day1\Exp1\obj\Debug\net10.0\Exp1.genruntimeconfig.cache
+D:\.NET DEV\Day1\Exp1\obj\Debug\net10.0\ref\Exp1.dll
+D:\24UAM317\.NET\Exp1\bin\Debug\net10.0\Exp1.exe
+D:\24UAM317\.NET\Exp1\bin\Debug\net10.0\Exp1.deps.json
+D:\24UAM317\.NET\Exp1\bin\Debug\net10.0\Exp1.runtimeconfig.json
+D:\24UAM317\.NET\Exp1\bin\Debug\net10.0\Exp1.dll
+D:\24UAM317\.NET\Exp1\bin\Debug\net10.0\Exp1.pdb
+D:\24UAM317\.NET\Exp1\obj\Debug\net10.0\Exp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\24UAM317\.NET\Exp1\obj\Debug\net10.0\Exp1.AssemblyInfoInputs.cache
+D:\24UAM317\.NET\Exp1\obj\Debug\net10.0\Exp1.AssemblyInfo.cs
+D:\24UAM317\.NET\Exp1\obj\Debug\net10.0\Exp1.csproj.CoreCompileInputs.cache
+D:\24UAM317\.NET\Exp1\obj\Debug\net10.0\Exp1.dll
+D:\24UAM317\.NET\Exp1\obj\Debug\net10.0\refint\Exp1.dll
+D:\24UAM317\.NET\Exp1\obj\Debug\net10.0\Exp1.pdb
+D:\24UAM317\.NET\Exp1\obj\Debug\net10.0\Exp1.genruntimeconfig.cache
+D:\24UAM317\.NET\Exp1\obj\Debug\net10.0\ref\Exp1.dll
+D:\24UAM317\.NET\Exp1\obj\Debug\net10.0\Exp1.sourcelink.json

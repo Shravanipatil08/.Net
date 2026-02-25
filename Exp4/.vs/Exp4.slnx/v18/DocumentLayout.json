@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\24UAM317\\.NET\\Exp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCF1E2C-5AC4-E8FE-78AC-507D200D0869}|Exp4.csproj|d:\\24uam317\\.net\\exp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCF1E2C-5AC4-E8FE-78AC-507D200D0869}|Exp4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCF1E2C-5AC4-E8FE-78AC-507D200D0869}|Exp4.csproj|d:\\24uam317\\.net\\exp4\\sortinglambda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCF1E2C-5AC4-E8FE-78AC-507D200D0869}|Exp4.csproj|solutionrelative:sortinglambda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCF1E2C-5AC4-E8FE-78AC-507D200D0869}|Exp4.csproj|d:\\24uam317\\.net\\exp4\\lambdadelegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCF1E2C-5AC4-E8FE-78AC-507D200D0869}|Exp4.csproj|solutionrelative:lambdadelegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortingLambda.cs",
+              "DocumentMoniker": "D:\\24UAM317\\.NET\\Exp4\\SortingLambda.cs",
+              "RelativeDocumentMoniker": "SortingLambda.cs",
+              "ToolTip": "D:\\24UAM317\\.NET\\Exp4\\SortingLambda.cs",
+              "RelativeToolTip": "SortingLambda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:26:28.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LambdaDelegates.cs",
+              "DocumentMoniker": "D:\\24UAM317\\.NET\\Exp4\\LambdaDelegates.cs",
+              "RelativeDocumentMoniker": "LambdaDelegates.cs",
+              "ToolTip": "D:\\24UAM317\\.NET\\Exp4\\LambdaDelegates.cs",
+              "RelativeToolTip": "LambdaDelegates.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:06:53.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\24UAM317\\.NET\\Exp4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\24UAM317\\.NET\\Exp4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T17:16:22.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
